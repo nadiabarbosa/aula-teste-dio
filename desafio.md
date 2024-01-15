@@ -1,4 +1,4 @@
-# Desafio Cassificador de Nível de Herói
+# Desafio Classificador de Nível de Herói
 
 **O que deve ser Utilizado**
 
